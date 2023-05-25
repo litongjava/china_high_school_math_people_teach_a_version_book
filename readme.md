@@ -47,5 +47,11 @@ gitee
 
 https://gitee.com/ppnt/china_high_school_math_people_teach_a_version_book
 
+
+
+docx版本协作,如果需要加入整理团队,请邮件联系我
+
+https://kdocs.cn/join/gbcd2qj
+
 ## 教程目录
 [目录](catelog.md)
