@@ -23,35 +23,28 @@ China high school math people teach A version
 - 人教版高中数学A版选修4-4.pdf
 - 人教版高中数学A版选修4-5.pdf
 
+## 教程目录
+[目录](catelog.md)
+
 ## PDF下载地址
 可以直接下载PDF在本地进行观看,各个章节的内容目前还在整理中
+[github](https://github.com/litongjava/china_high_school_math_people_teach_a_version_pdf)
+[gitee](https://gitee.com/ppnt/china_high_school_math_people_teach_a_version_pdf)
 
-github
-
-https://github.com/litongjava/china_high_school_math_people_teach_a_version_pdf
-
-gitee
-
-https://gitee.com/ppnt/china_high_school_math_people_teach_a_version_pdf
-
+## PDF网页预览
+[github](https://litongjava.github.io/china_high_school_math_people_teach_a_version_pdf/)
+[gitee](http://ppnt.gitee.io/china_high_school_math_people_teach_a_version_pdf/)
 
 
 ## 参与协作
 加入协作地址
+[github](https://github.com/litongjava/china_high_school_math_people_teach_a_version_book)
 
-github
-
-https://github.com/litongjava/china_high_school_math_people_teach_a_version_book
-
-gitee
-
-https://gitee.com/ppnt/china_high_school_math_people_teach_a_version_book
+[gitee](https://gitee.com/ppnt/china_high_school_math_people_teach_a_version_book)
 
 
-
+## docx版本协作
 docx版本协作,如果需要加入整理团队,请邮件联系我
 
 https://kdocs.cn/join/gbcd2qj
 
-## 教程目录
-[目录](catelog.md)
