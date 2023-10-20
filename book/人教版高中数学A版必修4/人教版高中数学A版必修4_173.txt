@@ -1,0 +1,34 @@
+复习参考题
+组
+1.已知a.β都是锐角，sina=
+2.已知cos（π-a)=，sin（+β）=-，a∈（.3）.p∈（0.），求sin（a+3的值
+3.已知sin（+a）=3，cos（π-β）=，0<a<，<B<，求sin（a+β)的值
+4.已知a，β都是锐角，tana=
+5.（1）证明：tana+tanβ=tan（a+β)-tan atanβtan（a+β).
+（2）求tan20°+tan40°+√3tan20°tan40°的值
+tan20°tan40°
+的值
+6.化简：
+1
+√3
+(1)
+sin 10°cos10°
+8
+(2）sin40°（tan10°-√3）;
+（3）tan70cos10°(√3tan20°-1)；
+(4）sin50°(1+√3tan10°）.
+7.（1）已知cos0=
+3
+3π
+0
+（2）已知sin-cos2-，求sina的值
+8.已知cos（a+β=
+9.证明：
+（1）cos4a+4cos2a+3=8cosa;
+1+sin2a
+(2)
+1
+2cos²a+sin2a
+tana+
+2
+161

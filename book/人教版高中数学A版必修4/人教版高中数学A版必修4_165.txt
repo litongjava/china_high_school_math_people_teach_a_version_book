@@ -1,0 +1,49 @@
+第三章三角恒等变换
+第三章
+（5）sin347cos148°+sin 77cos58°;
+（6）sin164°sin224°+sin254°sin314°;
+(7）sin（a+β）cos（y-β)-cos(β+a)sin（β-y);
+(8）sin（a-β）sin（β-y)-cos（a-β)cos(Y-β）;
+5元
+(9)
+5π
+sin（a+β)-2sinacosβ
+(10)
+2sinasinβ+cos（a+β)
+15.已知 sinα=0.80，α∈（o，），求sin2a，cos 2c的值（保留两个有效数字）.
+√3
+合平
+18.已知tana=
+19. 已知 cos(α+B)cos β+sin（α+β)sinβ=，且α∈(, 2π),求cos(2a+)的值
+价
+20.化简：
+(1)（sin a+cos a)²;
+8209
+(2） cos0-sin0;
+（3） sin xcos rcos 2x;
+联摄
+1
+1
+(4)
+tan01+tan0
+mi（+3+n（e=β)
+0
+B组
+1
+1.证明：
+（1）sin3a=3sina-4sin²a；
+拥，9的值代人
+(2)cos3a=4cosd-3cosa.
+0800
+2.在△ABC中，已知tanA，tanB是x的方程x²+p（x+1）+1=0的两个实根，求C的
+度数.
+足询
+S
+3.观察以下各等式：支的发个两#
+sin²30°+cos*60°+sin 30°℃cos 60°= 3
+sin²15°+cos²45°+sin15°cos45°=
+3
+4
+分析上述各式的共同特点，写出能反映一般规律的等式，并对等式的正确性作出证明
+CLLEGOBLLLELLLLLELLEEEZ
+153

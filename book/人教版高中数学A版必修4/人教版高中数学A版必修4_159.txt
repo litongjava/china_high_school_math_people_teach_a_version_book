@@ -1,0 +1,25 @@
+第三章
+第三章三角恒等变换
+5.求下列各式的值：
+（1）sin 72cos18°+cos72°sin18°；
+(2）cos72cos12°+sin72°sin12°;
+tan 12°+tan33°
+(3)
+1-tan12tan33°;
+(4)cos74°sin14°-sin74cos14°;
+（5）sin 34sin 26°-cos 34°cos 26°；
+（6)sin20cos110°+cos160°sin70°
+6.化简：
+(1)
+3
+sinx;
+(2）√3sinx+cosx；
+(3）√2（sinx-cosx);
+(4）√2cosx-√6sinx.
+7.已知sin（a-β）cosα-cos（β-a)sinα=，β是第三象限角，求sin（β+）的值
+3.1.3
+二倍角的正弦、余弦、正切公式
+以公式C-为基础，我们已经得到六个和（差）角公式，
+下面将以和（差）角公式为基础来推导倍角公式
+你能利用Sap、Ca±、T（a+推导出sin2a，cos2a，tan2a的公式吗？
+147
