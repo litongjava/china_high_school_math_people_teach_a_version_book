@@ -135,3 +135,4 @@ dist/
 dist.zip
 package-lock.json
 _book/
+nohup.out
