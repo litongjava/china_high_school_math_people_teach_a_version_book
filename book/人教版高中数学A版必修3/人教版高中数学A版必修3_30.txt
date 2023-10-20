@@ -1,0 +1,44 @@
+CHAPTER
+普通高中课程标准实验教科书数学3
+程序：
+INPUT"Please inpul a,b.
+a.b.
+d=b+b-4*a*c
+-b/(2*a)
+ SQR()和
+q=SQR(ABS(d)(2*a)
+ABS（）是两个函数，
+IFdOTHEN的
+分别用来求某个数
+xl=p+g
+的平方根和绝对值，
+世条件临
+2=p-9
+即 SQR(I)=√,等
+PRINTOnereal roof":x1
+r(r<0).
+ELSE
+PRINT“Tworeal rols:xl;xl,“and x2”;x2
+ENDIF
+ELSE
+首先对店后的条
+PRINTNorealroot.
+ENDF尚
+END别盛博告
+例6
+编写程序，使得任意输人的3个整数按从大到小
+的顺序输出.
+算法分析：
+用a、b、c表示输人的3个整数；为了节约变量，把它
+们重新排列后，仍用a、b、c表示，并使a≥b≥c.具体操
+作步骤如下.
+第一步：输人3个整数a、b、c
+第二步：将a与b比较，并把小者赋给b，大者赋给a
+第三步：将a与c比较，并把小者赋给c、大者赋给a
+此时a已是三者中最大的
+第四步：将b与c比较，并把小者赋给（，大者赋给b
+此时a、b、c已按从大到小的顺序排列好
+第五步：按顺序输出a、b、c.
+上述操作步骤可以用程序框图更直观地表达出来
+程序框图：
+18
